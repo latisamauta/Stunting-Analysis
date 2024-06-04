@@ -1,2 +1,2 @@
-# Stunting-Analysi
+# Stunting-Analysis
 Stunting merupakan permasalahan yang masih gawat karena angka prevelensi stunting di Indonesia masih sangat tinggi. Sehingga perlu pendekatan dan penelitian tentang faktor-faktor yang mempengaruhi kejadian stunting di negara ini. Salah satu cara yang bisa digunakan adalah analisis data sederhana pada variabel (faktor) pada status kejadian stunting. Hasil yang didapatkan bisa dimanfaatkan untuk pembuatan kebijakan pemerintah yang terfokus dan terencana secara benar. 
